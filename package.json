@@ -5,8 +5,7 @@
   "description": "Deterministic software-program-synthesis offer and contract-validation actuator.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/red-cup-engineering/computer-code-engineering-services-section.git",
-    "directory": "services/computer-code-development-services-section/services/software-program-synthesis-solicitation-service"
+    "url": "git+https://github.com/red-cup-engineering/software-program-synthesis-solicitation-service.git"
   },
   "exports": {
     ".": "./src/solicitation.mjs",
