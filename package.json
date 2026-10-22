@@ -28,5 +28,10 @@
     "@red-cup-engineering/computer-data-engineering-services-section": "0.5.1",
     "@red-cup-engineering/computer-filepath-engineering-services-section": "0.1.0",
     "@red-cup-engineering/eavt-services-section": "0.11.2"
+  },
+  "license": "MIT",
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/561-group/.github/blob/main/TIPS.md"
   }
 }
