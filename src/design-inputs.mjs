@@ -1,9 +1,9 @@
 import { resolve } from "node:path";
-import { eavtRow as entry } from "@red-cup-engineering/eavt-services-section/admit-row";
-import { appendEavtEntries } from "@red-cup-engineering/eavt-services-section/append-eavt-entries";
-import { readEavtEntries } from "@red-cup-engineering/eavt-services-section/read-eavt-entries";
+import { eavtRow as entry } from "@red-cup-engineering/eavt-engineering-services-section/admit-row";
+import { appendEavtEntries } from "@red-cup-engineering/eavt-engineering-services-section/append-eavt-entries";
+import { readEavtEntries } from "@red-cup-engineering/eavt-engineering-services-section/read-eavt-entries";
 import { addressDesignMaterial } from "./semantic-content.mjs";
-import { dataArtifactFiles } from "@red-cup-engineering/eavt-services-section/data-artifact-listing";
+import { dataArtifactFiles } from "@red-cup-engineering/eavt-engineering-services-section/data-artifact-listing";
 
 const FEED = "software-design-inputs";
 export const ADMITTED_DEMAND_CATEGORY = "software-design.admitted-demand";
